@@ -61,7 +61,7 @@ To check if our code is working well and consistent we can split the file into r
 
 I spent approximately 15-20 minutes writing the code however I spend my remaining time thinking about the most efficient way of doing this task. Thank you for the opportunity to conceptualize efficient solutions to this problem through such a fun brainstorming exercise. 
 
-Looking forward to hearing your feedback and joining your team.
+I look forward to hearing your feedback and for the chance to possibly join your team.
 
 I can list references from each of my previous workplaces if needed. 
 
